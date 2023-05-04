@@ -46,8 +46,18 @@
     "Content": {
       "type": "dynamiczone",
       "components": [
-        "common.hero",
-        "common.section"
+        "hero.home-hero-slider",
+        "home.borgo38",
+        "home.eventi",
+        "home.servizi",
+        "system.form",
+        "common.news-section",
+        "servizi.servizi-hero",
+        "servizi.servizi-list",
+        "servizi.spazi",
+        "common.link-to",
+        "gallery.gallery",
+        "contatti.location"
       ],
       "pluginOptions": {
         "i18n": {

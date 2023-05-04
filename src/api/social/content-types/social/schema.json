@@ -4,7 +4,8 @@
   "info": {
     "singularName": "social",
     "pluralName": "socials",
-    "displayName": "Social"
+    "displayName": "Social",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
@@ -15,7 +16,7 @@
       "displayName": "Social Link",
       "type": "component",
       "repeatable": true,
-      "component": "system.social-link"
+      "component": "social-link.social-link"
     }
   }
 }
