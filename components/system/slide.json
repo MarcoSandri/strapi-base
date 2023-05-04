@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_system_slides",
+  "info": {
+    "displayName": "Slide",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Label": {
+      "type": "string"
+    }
+  }
+}

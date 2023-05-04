@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_system_forms",
+  "info": {
+    "displayName": "Form",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ComponentName": {
+      "type": "string",
+      "default": "CommonForm",
+      "required": true
+    },
+    "To": {
+      "type": "email"
+    }
+  }
+}

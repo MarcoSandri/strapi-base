@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_contatti_locations",
+  "info": {
+    "displayName": "Location"
+  },
+  "options": {},
+  "attributes": {
+    "ComponentName": {
+      "type": "string",
+      "default": "ContattiLocation"
+    },
+    "Description": {
+      "type": "string"
+    }
+  }
+}
