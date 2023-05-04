@@ -16,6 +16,9 @@
     },
     "socialLink": {
       "type": "string"
+    },
+    "socialTitle": {
+      "type": "string"
     }
   }
 }

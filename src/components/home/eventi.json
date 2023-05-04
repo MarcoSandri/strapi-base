@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_home_eventis",
+  "info": {
+    "displayName": "Eventi",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ComponentName": {
+      "type": "string",
+      "default": "HomeEventi"
+    },
+    "HomeEventiTitle": {
+      "type": "string"
+    },
+    "Slider": {
+      "type": "component",
+      "repeatable": true,
+      "component": "system.slide"
+    }
+  }
+}

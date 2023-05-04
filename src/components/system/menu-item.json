@@ -6,9 +6,6 @@
   },
   "options": {},
   "attributes": {
-    "Label": {
-      "type": "string"
-    },
     "Url": {
       "type": "string"
     },
@@ -23,6 +20,9 @@
         "_blank",
         "_self"
       ]
+    },
+    "Label": {
+      "type": "string"
     }
   }
 }

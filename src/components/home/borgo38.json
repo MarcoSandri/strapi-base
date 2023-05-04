@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_home_borgo38s",
+  "info": {
+    "displayName": "Borgo38",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Borgo38LeftTitle": {
+      "type": "string"
+    },
+    "Borgo38RightTitle": {
+      "type": "string"
+    },
+    "Borgo38Content": {
+      "type": "richtext"
+    },
+    "ComponentName": {
+      "type": "string",
+      "default": "HomeBorgo38"
+    }
+  }
+}
